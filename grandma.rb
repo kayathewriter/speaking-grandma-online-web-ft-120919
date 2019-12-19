@@ -12,7 +12,7 @@ def speak_to_grandma(phrase)
    # is what we are saying (phrase) all uppercased?
    
   else
-    return "HUH?! Speak"
+    return "HUH?! SPEAK UP SONNY"
    puts "I LOVE YOU TOO PUMPKIN!"
 end
 
