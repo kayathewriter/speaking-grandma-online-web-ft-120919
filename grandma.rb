@@ -9,6 +9,7 @@ def speak_to_grandma(phrase)
    
    # phrase = 'WHAT DID YOU EAT TODAY?'
    # what is expected return "NO, NOT SINCE 1938!"
+   # is what we are all saying is
    puts "I LOVE YOU TOO PUMPKIN!"
 end
 
